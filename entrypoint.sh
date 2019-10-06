@@ -13,4 +13,4 @@ mkdir /run/nginx
 nginx
 
 # ss
-ss-server -c /root/config.json --fast-open
+ss-server -c /root/config.json
