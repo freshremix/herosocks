@@ -12,7 +12,7 @@
       "value": "chacha20-ietf-poly1305"
      }
   },
-  "website": "https://github.com/WinstonH/herosocks",
-  "repository": "https://github.com/WinstonH/herosocks",
+  "website": "https://github.com/xianren78/herosocks",
+  "repository": "https://github.com/xianren78/herosocks",
   "stack": "container"
 }
