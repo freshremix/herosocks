@@ -10,6 +10,10 @@
      "METHOD": {
       "description": "Define your method",
       "value": "chacha20-ietf-poly1305"
+     },
+     "URI": {
+      "description": "Define your obfs-uri",
+      "value": "URI"
      }
   },
   "website": "https://github.com/xianren78/herosocks",

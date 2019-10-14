@@ -6,6 +6,7 @@ echo "The password is: $PASSWORD"
 echo "The method is: $METHOD"
 
 sed -i "s/PORT/$PORT/g" /etc/nginx/conf.d/default.conf
+sed -i "s/URI/$URI/g" /etc/nginx/conf.d/default.conf
 
 mkdir -p /var/tmp/nginx/client_body
 mkdir /run/nginx
