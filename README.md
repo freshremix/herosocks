@@ -1,4 +1,4 @@
-# Herosocks
+# Heroku ss
 Heroku + shadowsocks \
 Deploy shadowsocks on heroku
 ## Principle
