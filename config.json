@@ -8,4 +8,5 @@
     "method":"chacha20-ietf-poly1305",
     "plugin":"obfs-server",
     "plugin_opts":"obfs=http"
+    "fast_open":true
 }
