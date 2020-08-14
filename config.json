@@ -7,7 +7,7 @@
     "udp_timeout":300,
     "method":"chacha20-ietf-poly1305",
     "plugin":"obfs-server",
-    "plugin_opts":"obfs=http;obfs-host=mzstatic.com",
+    "plugin_opts":"obfs=http",
     "mode":"tcp_and_udp",
     "fast_open":true
 }
