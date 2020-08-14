@@ -16,4 +16,4 @@ This trick heavily relies on the domain of `herokuapp.com`. \
 Please DO NOT distribute this repo everywhere in case the domain is blocked.
 ## Demo
 Feel free to use but make sure you obey the Note part mentioned above. \
-![](https://github.com/WinstonH/herosocks/blob/master/img/demo.png)
+![](https://github.com/laintuv00/herosocks/blob/master/img/demo.png)
