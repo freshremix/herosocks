@@ -1,7 +1,6 @@
 {
     "server":"0.0.0.0",
     "server_port":80,
-    "local_port":1080,
     "password":"herosocks",
     "timeout":300,
     "udp_timeout":300,
