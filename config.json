@@ -7,6 +7,5 @@
     "mode":"tcp_and_udp",
     "method":"chacha20-ietf-poly1305",
     "plugin":"obfs-server",
-    "plugin_opts":"obfs=http"
-    "fast_open":true
+    "plugin_opts":"obfs=http;obfs-host=github.com"
 }
