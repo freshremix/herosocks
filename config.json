@@ -3,7 +3,9 @@
     "server_port":8080,
     "local_port":1080,
     "password":"herosocks",
-    "timeout":60,
+    "timeout":300,
+    "udp_timeout":300,
+    "mode":"tcp_and_udp",
     "method":"chacha20-ietf-poly1305",
     "plugin":"obfs-server",
     "plugin_opts":"obfs=http"
