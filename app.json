@@ -1,6 +1,6 @@
 {
   "name": "Shadowsocks behind nginx",
-  "description": "Deploy Shadowsocks to Heroku.",
+  "description": "Deploy Shadowsocks server to Heroku.",
   "keywords": ["Shadowsocks"],
   "env": {
     "PASSWORD": {
@@ -9,14 +9,14 @@
      },
      "METHOD": {
       "description": "Define your method",
-      "value": "chacha20-ietf-poly1305"
+      "value": "rc4-md5"
      },
      "URI": {
       "description": "Define your obfs-uri",
       "value": "URI"
      }
   },
-  "website": "https://github.com/xianren78/herosocks",
-  "repository": "https://github.com/xianren78/herosocks",
+  "website": "https://github.com/laintuv00/herosocks",
+  "repository": "https://github.com/laintuv00/herosocks",
   "stack": "container"
 }
